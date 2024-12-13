@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="ynV9CH7FZ7JAJBBRRKmq">
+    <mxGraphModel dx="2390" dy="2532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-50" width="1070" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.edureka.co/blog/wp-content/uploads/2019/07/q.png;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="381.58" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-2" target="BM8hA-jWyk2Huwt3gzTx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-2" value="Codigo Fonte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-3" target="BM8hA-jWyk2Huwt3gzTx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-3" value="Engine Java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-5" target="BM8hA-jWyk2Huwt3gzTx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-5" value="Codigo de Maquina&lt;br&gt;+ JVM (extensao .jar)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-7" target="BM8hA-jWyk2Huwt3gzTx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-7" value="WINDOWS / LINUX / MAC o que for...&lt;br&gt;&lt;br&gt;JDK + Arquivo.jar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-10" value="JDK - JRE + Bibliotecas de Desenvolvimento Java&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-9" value="JRE - JVM + Bibliotecas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="885" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-11" value="[ NAO TEM ]&lt;br&gt;&lt;br&gt;Bibliotecas de Desenvolvimento Java&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="370" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-12" value="JRE - JVM + Bibliotecas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-13" value="Java (compilado)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-15" target="BM8hA-jWyk2Huwt3gzTx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-15" value="Codigo Fonte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-17" target="BM8hA-jWyk2Huwt3gzTx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-17" value="Engine Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-19" value="&quot;Hello World&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-21" value="Python (interpretado)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="180" y="645" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-22" value="&quot;Hello World&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-25" target="BM8hA-jWyk2Huwt3gzTx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-25" value="Codigo Fonte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-27" value="Engine Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-30" value="Python +&amp;nbsp;PyInstaller (compilado)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="180" y="770" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8hA-jWyk2Huwt3gzTx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-32" value="Codigo de Maquina&lt;br&gt;&amp;nbsp;(.exe)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-35" value="&quot;Hello World&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-36" value="JVM (lê o arquivo .jar e &lt;b&gt;interpreta&lt;/b&gt; em linguagem de maquina)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="585" y="480" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8hA-jWyk2Huwt3gzTx-38" value="Explicação de Maquinas Virtuais de Compiladores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=55;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-20" width="660" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
