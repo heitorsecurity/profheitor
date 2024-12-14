@@ -1,8 +1,17 @@
-# Prof. Heitor
-Projetos, contribuições, links, documentações, literaturas, artigos e outros no qual pude criar, participar e aprender.
+# Prof. HeitorSecurity
+- Projetos
+- Contribuições em projetos open-source e documentações open
+- Links úteis
+- Perfis interesantes
+- Sites de notícias e para referência
+- Literaturas
+- Livros
+- Pesquisas científicas e acadêmicas
+- Artigos
+- PDFs
+- Desenhos
+- Frameworks
 
-Colocarei desenhos, pdfs, apresentações, etc.
+E outros no qual pude criar, participar e aprender.
 
-Há!..
-
-No caso de artigos científicos e/ou acadêmicos, pesquisas deixarei em destaque.
+No caso de artigos relevantes, darei destaque. :)
