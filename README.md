@@ -3,4 +3,6 @@ Projetos, contribuições, links, documentações, literaturas, artigos e outros
 
 Colocarei desenhos, pdfs, apresentações, etc.
 
-Há! No caso de artigos científicos e/ou acadêmicos, pesquisas deixarei em destaque.
+Há!..
+
+No caso de artigos científicos e/ou acadêmicos, pesquisas deixarei em destaque.
